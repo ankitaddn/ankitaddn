@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning **Spring Framework with intergrations to persistence/REST/UI layers**.
 - 📘 I'm currently reading **Designing data intensive applications**
 - 💞️ I’m looking to collaborate on project lombok.
-- 📫 How to reach me -> 
+- 📫 shoot out at ankitaddn@gmail.com
 
 <!---
 ankitaddn/ankitaddn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
